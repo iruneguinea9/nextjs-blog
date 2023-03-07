@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is a tutorial by next.js, from their documentation, to get started with next and deployments in vercel
